@@ -1,0 +1,14 @@
+{
+  "name": "@officeos/skill-azure-devops",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "skill.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/officeos-co/skill-azure-devops"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@officeos/skill-sdk": "*"
+  }
+}
